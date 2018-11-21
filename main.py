@@ -142,10 +142,10 @@ def GetmailAttachment(emailhost,emailuser,emailpass,datestr,keywords):
 
 if __name__ == '__main__':
     #emailhost = raw_input('请输入邮箱服务器地址: ')
-    emailhost= "imap.exmail.qq.com"
+    emailhost= "***"
     #emailuser = raw_input('请输入邮箱地址: ')
-    emailuser= "jie.yang@hxh-ltd.com"
-    emailpass = "Jyang19930621"
+    emailuser= "***"
+    emailpass = "***"
     #emailpass='***'
     # datestr = input('请输入起始日期(如20170401): ')
     datestr = '201811202300'
